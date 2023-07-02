@@ -29,8 +29,7 @@ Train.csv file contains below information about each training image:
 7. Roi.Y2: Lower right Y-coordinate of the bounding box.
 8. ClassId: Class label of the image. It is an Integer between 0 and 43.
 
-**Checking the Class Imbalance of the Training set:
-**
+**Checking the Class Imbalance of the Training set:**
 ![image](https://github.com/Dhivyadd20/GTSRB/assets/129213031/58f69982-80f4-4871-81bd-0d568158e0f4)
 
 The above plot shows that the Training set is Imbalanced.
@@ -164,6 +163,7 @@ technique was applied. One-hot encoding is a process that transforms categorical
 as class names or target values, into a binary vector representation.
 
 **MODEL TRAINING:**
+
 The model utilized in this project is a Convolutional Neural Network (CNN), which is a deep
 learning architecture specifically designed for image analysis tasks. The CNN consists of
 multiple layers, the layers that are used in this model training are given below,
@@ -229,6 +229,7 @@ the data to the model, and updating the model's parameters based on the defined 
 and loss function.
 
 **MODEL EVALUATION:**
+
 Model evaluation is performed by calculating the loss and accuracy metrics. For the trained
 model, the obtained results are as follows:
                                       Loss: 0.0358
@@ -249,6 +250,7 @@ assessment of how well the model is able to classify the test images correctly.
 
 
 **CONCLUSION:**
+
 The developed CNN model demonstrated impressive results, achieving a high accuracy of
 99.21% on the test dataset. The project highlights the effectiveness of CNNs for German
 traffic sign recognition and showcases the importance of data preprocessing, augmentation,
