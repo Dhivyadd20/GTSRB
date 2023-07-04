@@ -4,7 +4,7 @@ German Traffic Sign Recognition Benchmark
 **INTRODUCTION:**
 
 The “German Traffic Sign Recognition Benchmark” is a multi-
-class classification model. This dataset consists of around 39,000 lifelike traffic sign images, representing real-world image recognition challenges. It consists of 43 classes of traffic signs split into 39,209 train images and 12,630 test images. Traffic signs are an integral part of our road infrastructure. Without such useful signs, we would most likely be faced with more accidents, as drivers would not be given critical feedback on how fast they could safely go, or informed about road works, sharp turns, or school crossings ahead. It has a major role to play in self-driving cars, which is the future of the automobile industry.
+class classification model. This dataset consists of around 40,000 lifelike traffic sign images, representing real-world image recognition challenges. It consists of 43 classes of traffic signs split into 39,209 train images and 12,630 test images. Traffic signs are an integral part of our road infrastructure. Without such useful signs, we would most likely be faced with more accidents, as drivers would not be given critical feedback on how fast they could safely go, or informed about road works, sharp turns, or school crossings ahead. It has a major role to play in self-driving cars, which is the future of the automobile industry.
 
 **EXPLORATORY DATA ANALYSIS:**
 
